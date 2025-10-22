@@ -1,0 +1,1 @@
+using BlobService as service from '../../srv/BlobService';
