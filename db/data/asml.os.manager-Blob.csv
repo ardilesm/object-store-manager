@@ -1,0 +1,4 @@
+id,container,versionId,filename,filesize,contentType,status,scannedAt,scanResult,classification
+2025-09-24T09:01:19.7200367Zupload_file_ 10mb.zip,DAM,"2025-09-24T09:01:19.7200367Z",upload_file_ 10mb.zip,108,"application/x-zip-compressed","synced",,,,
+2025-09-24T09:02:19.7200367Z_Alignment_advisor_module_R95.0-SNAPSHOT - 35.tar,DAM,"2025-09-24T09:01:19.7200367Z",_Alignment_advisor_module_R95.0-SNAPSHOT - 35.tar,1081585,"application/x-tar","synced",,,,
+2025-09-24T09:03:19.7200367Zdata (5).csv,DAM,"2025-09-24T09:01:19.7200367Z",data (5).csv,1081585443,"text/csv","synced",,,,
