@@ -8,6 +8,9 @@ default-*.json
 gen/
 node_modules/
 target/
+resources/
+appconfig/
+dist/
 
 # Web IDE, App Studio
 .che/
@@ -32,3 +35,10 @@ mta_archives/
 
 # @cap-js/cds-typer
 @cds-models
+
+# auto generated wildcard
+db/.env
+# auto generated wildcard
+*.env
+*.http
+
