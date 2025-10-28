@@ -127,6 +127,8 @@ resources:
     parameters:
       service: hana
       service-plan: hdi-shared
+      config:
+        schema: hdi_developer_amo_osm #DEV
 parameters:
   deploy_mode: html5-repo
   enable-parallel-deployments: true
