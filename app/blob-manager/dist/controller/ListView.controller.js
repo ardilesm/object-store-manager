@@ -1,2 +1,0 @@
-sap.ui.define(["sap/ui/core/mvc/Controller"],e=>{"use strict";return e.extend("blobmanager.controller.ListView",{onInit(){},onPressScanBlob(e){console.log("onPressScanBlob");let o=e.getSource();let t=o.getBindingContext();let n=t.getObject();sap.m.MessageToast.show("Scan blob for: "+n.id)}})});
-//# sourceMappingURL=ListView.controller.js.map

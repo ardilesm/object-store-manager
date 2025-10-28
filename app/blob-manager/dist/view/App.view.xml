@@ -1,9 +1,0 @@
-<mvc:View controllerName="blobmanager.controller.App"
-    displayBlock="true"
-    xmlns:mvc="sap.ui.core.mvc"
-    xmlns="sap.m">
-    <App id="app">
-        <Button text="Default">
-        </Button>
-    </App>
-</mvc:View>
